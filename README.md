@@ -27,8 +27,14 @@ Conservation of resources is key to success and should be practiced by All Owner
 
 The organization will be incorporated as an S-scorporation in the state where the majority of the owners will reside.
 
-Our common stock is called Equal Ownership Shares (EOSs) and they are so called because of the limit placed on their ownership: No person may own more than 1.0 EOS. If an owner comes to own more than 1.0 EOS, the excess will be paid out at the next close of business.
-
-Owning an EOS will grant the Owner a corresponding Equal Vote Share (EVS) which is recognized during all Votes in the General Conference (GC). No more than 1.0 EVS will be recognized from any Owner. A partial EOS will grant a corresponding partial EVS.
+Our common stock is called Equal Ownership Shares (EOSs) and they are so called because of the limit placed on their ownership: No person may own other than 1.0 EOS. If an owner comes to own more than 1.0 EOS, the excess will be paid out at the next close of business.
 
 An EOS is an equity claim on the Net Assets of the company. The amount of the claim is the total Net Assets of the Company divided by the number of EOS outstanding. 
+
+## Elections
+
+The organization will elect a President who shall preside over the general conference and bring it to order. The President will be paid a bonus based on the payroll generated.
+
+The organization will elect a CEO to enact a business plan. The CEO will be paid a bonus based on the surplus generated.
+
+The organization will elect a board of directors to oversee health, safety, finance, and legal compliance. The board of directors will be paid a bonus based on the company's record.
